@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  HOPE GILANA
 - 👀 I’m interested in Frontend web Development
-- 🌱 I’m currently learning FRontend Web development using react
+- 🌱 I’m currently learning Frontend Web development using react
 - 💞️ I’m looking to collaborate on learning  as well as working opportunities 
 - 📫 How to reach me ... email --- hopegilana@gmail.com  
 
